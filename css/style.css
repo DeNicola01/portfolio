@@ -105,7 +105,7 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 50%;
+    width: 40%;
     margin-right: 5%;
     border: 7.5px solid var(--cor-terciaria);
     border-radius: 5px;
@@ -137,5 +137,9 @@ body {
 
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .apresentacao__imagem {
+        width: 50%;
     }
 }
